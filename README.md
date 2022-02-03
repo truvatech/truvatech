@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yannick
 
-I am currently working on developing and deploying Docker based solutions to Amazon ECS & Fargate.
+I am currently working on developing and deploying Kubernetes based solutions to Amazon EKS.
 
 Mostly migrating my client's legacy solutions for ease with which to centralize monitoring and management.
 
