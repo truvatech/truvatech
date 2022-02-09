@@ -1,10 +1,16 @@
 - 👋 Hi, I’m Yannick
 
-I am currently working on deploying docker based solutions to Amazon ECS, and working on kubernetes locally in order to easily deploy clusters to EKS if I felt the compute costs were worth it for my applications or for those of my small clients, or if I had to work with it within an organization.
+I.T Wizard, and Systems & Processes Engineer, with a solid background and understanding of both on-screen and off-screen technical matters. Recently moved back to my hometown of Montreal from across the country and am actively looking for work!
 
-Mostly migrating my client's legacy solutions to docker based containers on ECS/EC2 for ease with which to centralize monitoring, management and to offload some of the infrastructure security to the provider.
+Roles I’d consider:
+    • DevOps/DevSecOps/Site Reliability Engineer/Platform Engineer/Cybersecurity Analyst/etc
+    • High level technical implementation & support/management
+    • CTO/Tech lead  - for start-ups/small businesses
+    • R&D, or something related to events, with audio/video/tech
+    • Or whatever “role” I organically take on in any sort of non-structured or decentralized/distributed team
+I am not picky about official title as I realize It’s all semantics for the same type of grasp on technology through the lenses of different vocabulary among different roles and industries.
 
-I am looking to do the same for start-ups, small and medium sized businesses, and even large ones if your team needs extra DevOps, cloud-infrastructure integration, management, and support, or if you just need an all-around general I.T. Wizard, I'm your guy!
+You either get “IT” , or you don’t, despite the language used to express it, and I can assure you, I get IT, as well as a lot in general when it comes to anything related to physical world, especially technological/mechanical/electrical. Consciousness is still a mystery, though...
 
 You can reach me by email yannick@ymrtech.com
 
