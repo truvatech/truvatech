@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Yannick
 
-I.T Wiz, and Systems & Processes Engineer, with a solid background and understanding of both on-screen and off-screen technical matters. 
-Looking for 100% remote, or Montreal based flexible hybrid, which would ideally include a part where I would be working remotely from Costa Rica during the months of Dec-March
+I.T Wiz, and Systems & Processes Engineer, with a solid background and understanding of both on-screen and off-screen technical matters
+
+Looking for 100% remote, or Montreal based flexible hybrid opportunities, which would ideally include a part where I would be working remotely from Costa Rica during the months of Dec-March
 
 Roles I am looking to fill – Looking for an exiting team and opportunity, and not necessarily a specific title
  - Cloud Systems Engineer/Site Reliability Engineer/Platform Engineer/DevOps/Sysadmin/Cybersecurity Analyst – for cloud providers, MSPs, or in-house for larger enterprise-grade industries and organizations 
