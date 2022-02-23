@@ -19,6 +19,8 @@ I've had clients, employers, or have worked with teams and entrepreneurs in vari
  - small scale manufacturing and prototyping
  - small, medium, and large administration-heavy Businesses (offices, hospitals, warehouses, etc)
  - bars & nightclubs
+ - retail shops and small restaurents
+ - mechanics, machining, and welding shops
  - delivery & logistics
  - various web-based businesses and products involving remotely setting up, and managing their cloud infrastructure
 
