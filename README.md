@@ -11,9 +11,18 @@ Roles I am looking to fill – Looking for an exiting team and opportunity, and 
  - Whatever “role” I organically take on in any sort of non-structured or decentralized/distributed team. I am open to ideas I might not have thought of already based on my profile and your opportunity, and I am always looking for opportunities to grow, learn, and push my boundaries.
 I am not picky about official title as I realize It’s all semantics for the same type of grasp on technology, although, if there is an official title, I’d be extra happy if it includes Engineer, to reflect my academic history and generalized “systems thinking” mindset.
 
-You can reach me by email yannick@ymrtech.com
+I've had clients, employers, or have worked with teams and entrepreneurs in various different industries in various ways. Some digitally, others operationally, and literally getting down to the the nitty-gritty with some others...
+small-scale off-grid agriculture
+retreat centers & festivals
+Start-ups and incubation spaces
+Sales & marketing
+small scale manufacturing and prototyping
+Small, Medium, and large administration-heavy Businesses (offices, hospitals, warehouses, etc)
+Bars & Nightclubs
+Delivery & logistics
+Various web-based businesses and products involving remotely setting up, and managing their cloud infrastructure
 
-Montreal Based
+You can reach me by email yannick@ymrtech.com
 
 Fully billingual French & English. I also write/speak spanish fairly decently
 
