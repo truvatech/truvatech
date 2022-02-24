@@ -2,7 +2,7 @@
 
 I.T Wiz, and Systems & Process (industrial) Engineer, with an abstract art piece for a background/life-experience, and deep understanding of both on-screen and off-screen technical matters
 
-Looking for 100% remote, or Montreal based flexible hybrid opportunities, which would ideally include a part where I would be working remotely from Costa Rica during the months of Dec-March
+Looking for 100% remote, or Montreal based flexible hybrid opportunities, which would ideally include a part where I would be working remotely from Costa Rica during the months of Dec-March. Why should one wait until retirement to do like the "snowbirds?" (Retired Quebecers who drive down to florida every winter)
 
 Roles I am looking to fill – Looking for an exiting team and opportunity, and not necessarily a specific title
  - Cloud Systems Engineer/Site Reliability Engineer/Platform Engineer/DevOps/Sysadmin/Cybersecurity Analyst – for cloud providers, MSPs, or in-house for larger enterprise-grade industries and organizations 
