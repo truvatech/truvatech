@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yannick
 
-I.T Wiz, and Systems & Processes Engineer, with a solid background and understanding of both on-screen and off-screen technical matters
+I.T Wiz, and general Engineer, with an abstract art piece for a background/life-experience, and deep understanding of both on-screen and off-screen technical matters
 
 Looking for 100% remote, or Montreal based flexible hybrid opportunities, which would ideally include a part where I would be working remotely from Costa Rica during the months of Dec-March
 
