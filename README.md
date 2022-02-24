@@ -23,7 +23,7 @@ I've had clients, employers, or have worked with teams and entrepreneurs in vari
  - mechanics, machining, and welding shops
  - delivery & logistics
  - bitcoin mining & trading
- - various web-based businesses and products involving remotely setting up, and managing their cloud infrastructure
+ - various web-based businesses and products
 
 You can reach me by email yannick@ymrtech.com
 
