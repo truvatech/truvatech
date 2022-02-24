@@ -17,7 +17,7 @@ I've had clients, employers, or have worked with teams and entrepreneurs in vari
  - start-ups and incubation spaces
  - sales & marketing
  - small scale manufacturing and prototyping
- - small, medium, and large administration-heavy Businesses (offices, hospitals, warehouses, etc)
+ - small, medium, and large administration-heavy businesses (offices, hospitals, warehouses, etc)
  - bars & nightclubs
  - retail shops and small restaurents
  - mechanics, machining, and welding shops
